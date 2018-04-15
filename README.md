@@ -4,7 +4,7 @@ To optmise Andriod Phone Battery Life
 
 Source :
 http://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries
-
+https://github.com/pintub/BatteryPlus/blob/master/BatteryLifeStatistics.JPG
 
 #Objective:
 1.Poll Battery Status continously [[One Time Activity]]
