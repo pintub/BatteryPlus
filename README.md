@@ -12,3 +12,8 @@ Suppose ends are called -> low and high
 3.Nofity user [[Main purpose of App]]
   A. To charge phone ,when low reached
   B. To discharge phone ,when high reached 
+
+
+Feature Status:
+1.Implementation Done
+2.Testing Pending
